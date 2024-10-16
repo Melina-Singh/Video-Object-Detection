@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>pexels-mikebirdy-3729464.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\1 data_preparation\data_images\pexels-mikebirdy-3729464.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5456</width>
+		<height>3632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>1276</ymin>
+			<xmax>5430</xmax>
+			<ymax>3484</ymax>
+		</bndbox>
+	</object>
+</annotation>

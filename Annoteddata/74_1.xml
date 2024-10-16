@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2 data preparation</folder>
+	<filename>png-transparent-man-walking-beside-woman-holding-bag-people-people-hd-photography-shoe-aka-people.png</filename>
+	<path>D:\VIDEO OBJECT DETECTION\2 data preparation\png-transparent-man-walking-beside-woman-holding-bag-people-people-hd-photography-shoe-aka-people.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>4</ymin>
+			<xmax>720</xmax>
+			<ymax>920</ymax>
+		</bndbox>
+	</object>
+</annotation>

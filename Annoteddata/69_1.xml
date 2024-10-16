@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>pexels-stas-tsibro-268729-811034.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\1 data_preparation\data_images\pexels-stas-tsibro-268729-811034.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2092</xmin>
+			<ymin>1267</ymin>
+			<xmax>2404</xmax>
+			<ymax>1535</ymax>
+		</bndbox>
+	</object>
+</annotation>

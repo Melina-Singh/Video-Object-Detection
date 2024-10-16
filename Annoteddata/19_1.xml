@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>mini-cooper-auto-model-vehicle.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\1 data_preparation\data_images\mini-cooper-auto-model-vehicle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3961</width>
+		<height>2419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1360</xmin>
+			<ymin>1101</ymin>
+			<xmax>3905</xmax>
+			<ymax>2170</ymax>
+		</bndbox>
+	</object>
+</annotation>

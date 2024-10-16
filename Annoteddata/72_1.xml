@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2 data preparation</folder>
+	<filename>png-clipart-man-walking-while-carrying-bag-walking-man-sitting-man-miscellaneous-people.png</filename>
+	<path>D:\VIDEO OBJECT DETECTION\2 data preparation\png-clipart-man-walking-while-carrying-bag-walking-man-sitting-man-miscellaneous-people.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>8</ymin>
+			<xmax>874</xmax>
+			<ymax>1271</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>pexels-photo-3729464 (1).jpeg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\1 data_preparation\data_images\pexels-photo-3729464 (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5456</width>
+		<height>3632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>1420</ymin>
+			<xmax>5382</xmax>
+			<ymax>3380</ymax>
+		</bndbox>
+	</object>
+</annotation>

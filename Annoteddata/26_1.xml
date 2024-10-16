@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>my24-dodge-bhp-hero-02-desktop-v2.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\1 data_preparation\data_images\my24-dodge-bhp-hero-02-desktop-v2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>850</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>886</xmin>
+			<ymin>195</ymin>
+			<xmax>1865</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+</annotation>

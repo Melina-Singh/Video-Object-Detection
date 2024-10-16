@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2 data preparation</folder>
+	<filename>mueller-sidewalk-people.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\2 data preparation\mueller-sidewalk-people.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2313</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>497</ymin>
+			<xmax>819</xmax>
+			<ymax>1168</ymax>
+		</bndbox>
+	</object>
+</annotation>

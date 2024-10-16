@@ -1,0 +1,50 @@
+<annotation>
+	<folder>2 data preparation</folder>
+	<filename>people-8707803_1280.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\2 data preparation\people-8707803_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>49</ymin>
+			<xmax>416</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>53</ymin>
+			<xmax>913</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>913</xmin>
+			<ymin>13</ymin>
+			<xmax>1234</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+</annotation>

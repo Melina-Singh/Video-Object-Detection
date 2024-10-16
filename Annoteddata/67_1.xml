@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>pexels-roman-ska-3453281-6147809.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\1 data_preparation\data_images\pexels-roman-ska-3453281-6147809.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3998</width>
+		<height>4997</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1001</xmin>
+			<ymin>2553</ymin>
+			<xmax>2240</xmax>
+			<ymax>3198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2357</xmin>
+			<ymin>2464</ymin>
+			<xmax>2979</xmax>
+			<ymax>3003</ymax>
+		</bndbox>
+	</object>
+</annotation>

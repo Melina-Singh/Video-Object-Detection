@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2 data preparation</folder>
+	<filename>png-transparent-men-s-black-suit-jacket-holding-bag-while-walking-businessperson-walking-suit-business-people-photography-people-public-relations.png</filename>
+	<path>D:\VIDEO OBJECT DETECTION\2 data preparation\png-transparent-men-s-black-suit-jacket-holding-bag-while-walking-businessperson-walking-suit-business-people-photography-people-public-relations.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>25</ymin>
+			<xmax>759</xmax>
+			<ymax>1487</ymax>
+		</bndbox>
+	</object>
+</annotation>

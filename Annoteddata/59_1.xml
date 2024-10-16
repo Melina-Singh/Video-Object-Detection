@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2 data preparation</folder>
+	<filename>person-walking-on-the-beach-with-a-dog.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\2 data preparation\person-walking-on-the-beach-with-a-dog.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2120</width>
+		<height>1414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>91</ymin>
+			<xmax>602</xmax>
+			<ymax>1307</ymax>
+		</bndbox>
+	</object>
+</annotation>

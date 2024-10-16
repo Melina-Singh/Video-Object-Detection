@@ -1,0 +1,50 @@
+<annotation>
+	<folder>2 data preparation</folder>
+	<filename>png-transparent-three-men-walking-ethnic-group-people-homo-sapiens-walking-person-etnic-miscellaneous-tshirt-social-group.png</filename>
+	<path>D:\VIDEO OBJECT DETECTION\2 data preparation\png-transparent-three-men-walking-ethnic-group-people-homo-sapiens-walking-person-etnic-miscellaneous-tshirt-social-group.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>895</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>75</ymin>
+			<xmax>315</xmax>
+			<ymax>892</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>75</ymin>
+			<xmax>597</xmax>
+			<ymax>895</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>27</ymin>
+			<xmax>920</xmax>
+			<ymax>893</ymax>
+		</bndbox>
+	</object>
+</annotation>

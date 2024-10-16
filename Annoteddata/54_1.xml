@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2 data preparation</folder>
+	<filename>people-walking-png-favpng-BbWbDZmNxkinsb1856WWq2MU3.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\2 data preparation\people-walking-png-favpng-BbWbDZmNxkinsb1856WWq2MU3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>1224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>393</ymin>
+			<xmax>422</xmax>
+			<ymax>1162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>756</ymin>
+			<xmax>633</xmax>
+			<ymax>1137</ymax>
+		</bndbox>
+	</object>
+</annotation>

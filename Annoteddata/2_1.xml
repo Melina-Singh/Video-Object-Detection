@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>3087974438_10c25560ea_c.jpg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\1 data_preparation\data_images\3087974438_10c25560ea_c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>797</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>253</ymin>
+			<xmax>568</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

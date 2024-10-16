@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>pexels-photo-210019.jpeg</filename>
+	<path>D:\VIDEO OBJECT DETECTION\1 data_preparation\data_images\pexels-photo-210019.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4700</width>
+		<height>3133</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1003</xmin>
+			<ymin>711</ymin>
+			<xmax>4193</xmax>
+			<ymax>2690</ymax>
+		</bndbox>
+	</object>
+</annotation>
