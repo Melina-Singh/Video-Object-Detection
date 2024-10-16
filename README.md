@@ -67,9 +67,7 @@ This section details the training process for the YOLOv5 model using the annotat
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements.
 
 ## License 
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License.
 
 
 ## Authors
